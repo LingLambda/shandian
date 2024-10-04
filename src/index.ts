@@ -5,6 +5,8 @@ export const usage = `
 闪电 创建和加入游戏  
 闪电 开始 开始游戏  
 闪电 结束 结束游戏  
+
+在大群用时当心刷屏!
 <small>测试阶段,有意见欢迎提<small/>
 `
 export interface Config { }

@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-shandian",
-  "description": "闪电小游戏",
-  "version": "0.0.1",
+  "description": "三国杀闪电小游戏",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "repository": {
