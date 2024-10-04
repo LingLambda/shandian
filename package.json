@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-shandian",
-  "description": "",
+  "description": "闪电小游戏",
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -12,7 +12,10 @@
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "game",
+    "三国杀",
+    "闪电"
   ],
   "peerDependencies": {
     "koishi": "^4.17.11"
