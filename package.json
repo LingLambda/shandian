@@ -4,6 +4,10 @@
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LingLambda/shandian.git"
+  },
   "files": [
     "lib",
     "dist"
@@ -15,9 +19,10 @@
     "plugin",
     "game",
     "三国杀",
-    "闪电"
+    "闪电",
+    "娱乐"
   ],
   "peerDependencies": {
-    "koishi": "^4.17.11"
+    "koishi": "^4.10"
   }
 }
